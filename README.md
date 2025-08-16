@@ -25,7 +25,7 @@
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,jenkins,githubactions,gitlab,terraform,ansible,aws,prometheus,grafana,kafka,bash,nginx,python,django,flask,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,jenkins,githubactions,gitlab,terraform,ansible,aws,prometheus,grafana,kafka,bash,nginx,go,python,django,flask,linux,)](https://skillicons.dev)
 
 
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=AhmedAtiia11&style=flat-square) -->
